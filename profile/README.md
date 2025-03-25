@@ -11,8 +11,8 @@
 ---
 
 ## 主要開發者與管理者
-- B.Eng: *[XuanYou-Lin](https://tsukisama9292.github.io/blog/)*
-- M.Eng: *David Lai*
+### **B.Eng: [XuanYou-Lin](https://tsukisama9292.github.io/blog/)**  
+### **M.Eng: David Lai**
 
 ## 實驗室下的專題與企劃
 ### [K12EDU - 數位學習遊戲與智慧學習助手](https://github.com/k12edu)
@@ -21,4 +21,4 @@
 致力於提供適性式的學習體驗，並幫助學生發現學習的樂趣，提升學習的成效。  
 
 ## 指導教授
-- Prof.: *[Chaohsi Huang](https://www.facebook.com/cutechaohsi)*
+### **Prof.: [Chaohsi Huang](https://www.facebook.com/cutechaohsi)**
