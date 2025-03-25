@@ -1,12 +1,15 @@
-## Hi there 👋
+# 歡迎來到 RFID 實驗室的 Github 組織 👋
 
-<!--
+## 🌏 [組織起源](https://csie.niu.edu.tw/index.php)
+**台灣，國立宜蘭大學，資訊工程學系**  
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📚 關於我們
+佔位
+
+---
+
+## [開發者與管理者]
+- B.Eng: [XuanYou-Lin](https://tsukisama9292.github.io/blog/)
+- M.Eng: David Lai
