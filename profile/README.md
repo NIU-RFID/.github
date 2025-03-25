@@ -10,7 +10,9 @@
 
 ---
 
-## 管理者
+## 主要開發者與管理者
 - B.Eng: *[XuanYou-Lin](https://tsukisama9292.github.io/blog/)*
 - M.Eng: *David Lai*
-- Prof.: *Chaohsi Huang*
+
+## 指導教授
+- Prof.: *[Chaohsi Huang](https://www.facebook.com/cutechaohsi)*
