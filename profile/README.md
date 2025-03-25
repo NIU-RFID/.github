@@ -10,6 +10,7 @@
 
 ---
 
-## [開發者與管理者]
-- B.Eng: [XuanYou-Lin](https://tsukisama9292.github.io/blog/)
-- M.Eng: David Lai
+## 管理者
+- B.Eng: *[XuanYou-Lin](https://tsukisama9292.github.io/blog/)*
+- M.Eng: *David Lai*
+- Prof.: *Chaohsi Huang*
